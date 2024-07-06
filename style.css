@@ -1,0 +1,19 @@
+.nav-item {
+    padding: 0px 15px;
+    color: aliceblue;
+}
+.nav-link {
+    color: aliceblue;
+}
+.navbar-nav .nav-link.active {
+    color: #ff6600;
+}
+.hero {
+    height: 600px;
+    background-image: url(./asset/header-bg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
